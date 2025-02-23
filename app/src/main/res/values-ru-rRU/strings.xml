@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">PeakOrama</string>
+    <string name="error_no_gps">Пожалуйста, включите GPS</string>
+    <string name="error_no_compass">Компасс недоступен. Используется направление движения.</string>
+    <string name="cancel">Отмена</string>
+    <string name="ok">ОК</string>
+    <string name="search">Поиск</string>
+    <string name="menu_adjust_compass_offset">Настроить смещение компаса</string>
+    <string name="units_menu_item">Единицы измерения</string>
+    <string name="units_metric_menu_item">Метрическая</string>
+    <string name="units_imperial_menu_item">Британская</string>
+    <string name="dialog_OK_button">ОК</string>
+    <string name="dialog_NO_button">Нет</string>
+    <string name="dialog_Later_button">Может быть позже</string>
+    <string name="dialog_StarOnGitHub">Вам нравится это приложение? Пожалуйста, поставьте ему звезду на GitHub или угостите разработчика кофе через PayPal.</string>
+</resources>
